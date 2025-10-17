@@ -1,0 +1,2 @@
+# Aging-Access-and-Quality-State-Level-Insights-into-U.S.-Health-Outcomes
+This project explores how aging populations, healthcare access, and care quality interact to shape health outcomes across U.S. states. Using state-level datasets from CDC, CMS, and HIFLD, we analyze patterns linking the density of healthcare facilities, nursing home quality ratings, and self-reported physical and mental health.
